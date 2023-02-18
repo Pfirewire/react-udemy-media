@@ -1,6 +1,21 @@
 {
   "users": [
-    { "id": 1, "name": "Myra" }
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Simon Jones",
+      "id": 2
+    },
+    {
+      "name": "Marguerite Wilkinson",
+      "id": 3
+    },
+    {
+      "name": "Edgar Emard",
+      "id": 4
+    }
   ],
   "albums": [],
   "photos": []
