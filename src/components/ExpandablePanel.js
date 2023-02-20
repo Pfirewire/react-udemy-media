@@ -24,7 +24,6 @@ function ExpandablePanel({ header, children }) {
                     {children}
                 </div>
             }
-
         </div>
     );
 }
