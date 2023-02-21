@@ -12,14 +12,9 @@ import AlbumsListItem from "./AlbumsListItem";
 function AlbumsList({ user }) {
     const { data, error, isLoading} = useFetchAlbumsQuery(user);
     const [addAlbum, results] = useAddAlbumMutation();
-    const [removeAlbum, removeAlbumResults] = useRemoveAlbumMutation();
 
     const handleAddAlbum = () => {
         addAlbum(user);
-    };
-
-    const handleRemoveAlbum = (album) => {
-        removeAlbum(album);
     };
 
     let content;

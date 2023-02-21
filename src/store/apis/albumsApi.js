@@ -63,14 +63,14 @@ const albumsApi = createApi({
                     return [
                         {
                             type: 'Album',
-                            id: arg.id
+                            id: arg.userId
                         },
                     ];
                 },
                 query: (album) => {
                     return {
                         url: `/albums/${album.id}`,
-                        method: 'delete',
+                        method: 'DELETE',
                     };
                 },
             }),
