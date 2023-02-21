@@ -3,9 +3,7 @@ import {
     useAddAlbumMutation,
     useRemoveAlbumMutation
 } from "../store";
-import { GoTrashcan } from "react-icons/go";
 import Skeleton from "./Skeleton";
-import ExpandablePanel from "./ExpandablePanel";
 import Button from "./Button";
 import AlbumsListItem from "./AlbumsListItem";
 
