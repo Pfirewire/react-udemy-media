@@ -17,7 +17,13 @@ const albumsApi = createApi({
                         method: 'GET',
                     };
                 }
-            })
+            }),
+            addAlbum: builder.mutation({
+
+            }),
+            removeAlbum: builder.mutation({
+
+            }),
         };
     },
 });
