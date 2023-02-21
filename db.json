@@ -33,6 +33,12 @@
       "id": 12
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Test Album",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
