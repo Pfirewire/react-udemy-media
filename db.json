@@ -38,6 +38,11 @@
       "id": 1,
       "title": "Test Album",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Refined Bronze Chicken",
+      "id": 2
     }
   ],
   "photos": []
