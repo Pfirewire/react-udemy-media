@@ -9,7 +9,7 @@ function AlbumsList({ user }) {
 
     const handleAddAlbum = () => {
         addAlbum(user);
-    }
+    };
 
     let content;
     if(isLoading) {
