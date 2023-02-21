@@ -35,54 +35,19 @@
   ],
   "albums": [
     {
-      "id": 1,
-      "title": "Test Album",
-      "userId": 1
+      "userId": 1,
+      "title": "Rustic Concrete Cheese",
+      "id": 1
     },
     {
       "userId": 1,
-      "title": "Refined Bronze Chicken",
+      "title": "Rustic Granite Bike",
       "id": 2
     },
     {
       "userId": 1,
-      "title": "Gorgeous Rubber Towels",
+      "title": "Licensed Frozen Cheese",
       "id": 3
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Concrete Soap",
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "title": "Modern Soft Bike",
-      "id": 5
-    },
-    {
-      "userId": 1,
-      "title": "Oriental Rubber Pizza",
-      "id": 6
-    },
-    {
-      "userId": 1,
-      "title": "Electronic Rubber Fish",
-      "id": 7
-    },
-    {
-      "userId": 1,
-      "title": "Generic Fresh Hat",
-      "id": 8
-    },
-    {
-      "userId": 1,
-      "title": "Incredible Plastic Pants",
-      "id": 9
-    },
-    {
-      "userId": 1,
-      "title": "Recycled Rubber Chicken",
-      "id": 10
     }
   ],
   "photos": []
