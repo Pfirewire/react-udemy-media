@@ -36,13 +36,13 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Rustic Concrete Cheese",
-      "id": 1
+      "title": "Incredible Wooden Towels",
+      "id": 3
     },
     {
       "userId": 1,
-      "title": "Rustic Granite Bike",
-      "id": 2
+      "title": "Awesome Rubber Hat",
+      "id": 4
     }
   ],
   "photos": []
